@@ -18,5 +18,4 @@ for t in word:
 
             n = m
     d = t
-    print('\n')
 print(occured_twice)
