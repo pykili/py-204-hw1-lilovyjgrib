@@ -1,7 +1,7 @@
 string = input()
 b = int(string[0])
 for a in string:
-    a = int(a)
-    if a > b:
+    c = int(a)
+    if c > b:
         b = a
 print(b)
