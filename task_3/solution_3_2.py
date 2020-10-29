@@ -5,5 +5,5 @@ for a in 'a'*10:
         all_input = all_input + user_input
 for letter in all_input:
     if letter not in alphabet:
-        alphabet = alphabet + letter
+    alphabet = alphabet + letter
 print(alphabet)
