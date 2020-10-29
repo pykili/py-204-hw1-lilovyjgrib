@@ -19,6 +19,6 @@ for smth in 'a'*10:
             i = i + 1
         my_cool_condition = lemma != form
         if user_input[0] == '#':
-           my_cool_condition = False
+            my_cool_condition = False
         if my_cool_condition == True:
-           print(form, lemma)
+            print(form, lemma)
